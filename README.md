@@ -30,7 +30,7 @@ Run database migrations: -> php artisan migrate
 Start the development server: ->php artisan serve
 
 Usage Instructions
-#### Open the app in your browser: (http://127.0.0.1:8000/employees
+#### Open the app in your browser: http://127.0.0.1:8000/employees
 
 To add employees, navigate to the Add Employee section.
 To edit or delete employees, use the Edit or Delete buttons in the employee list.
